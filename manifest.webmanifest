@@ -1,0 +1,17 @@
+{
+  "name": "Grano a taza",
+  "short_name": "Grano a taza",
+  "description": "Todo el café, de la finca a la taza.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E8EBDF",
+  "theme_color": "#1E1511",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,8 @@
+Grano a taza — app instalable
+
+Sube estos 7 archivos (sin carpetas) a tu sitio:
+index.html, manifest.webmanifest, sw.js, apple-touch-icon.png, icon-192.png, icon-512.png, icon-maskable-512.png
+
+Luego abre el enlace de tu sitio en Safari (iPhone) o Chrome (Android)
+y agrégala a la pantalla de inicio. Aparecerá con el logo y el nombre "Grano a taza".
+Después de abrirla una vez con internet, funciona sin conexión.
